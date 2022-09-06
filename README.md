@@ -1,7 +1,7 @@
 # web repo
 #### Bio  
 >**Name：李承恩**  
->**系級：科技系二年級**  
+>**Class：科技系二年級**  
 
 # 111-1 NTNU 網際網路概論 (Introduction to the Internet)  
 #### Class Info
