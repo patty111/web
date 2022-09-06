@@ -1,12 +1,12 @@
 # web repo
-# 111-1 NTNU 科技系網際網路概論  
+# 111-1 NTNU 科技系網際網路概論 (Introduction to the Internet)  
 
 >**授課教師：蔡芸琤老師**  
 >**姓名：李承恩**  
 >**系級：科技系二年級**  
 
-## 課程筆記區  
+## Notes  
 
-## 作業連結區  
+## HW  
 
-## 專題連結區  
+## Projects  
