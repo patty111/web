@@ -21,11 +21,19 @@
 
 
 
-### Week1
-- Download and setup Node.js and React on VScode  
-- Create github account and create a repository  
+### <span style="color:Red">Week 1</span>
+- **Download and setup Node.js and React on VScode**  
+- **Create github account and create a repository**  
   
-### Week2
-- Static website (Github pages site)  
-- W3School
-- Bootstrap
+### <span style="color:Red">Week 2</span>
+- **Static website (Github pages site)**  
+- **W3School**
+- **Bootstrap**
+
+### <span style="color:Red">Week 3</span>
+
+
+### <span style="color:Red">Week 4</span>
+
+
+### <span style="color:Red">Week 5</span>
