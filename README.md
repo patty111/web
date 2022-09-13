@@ -26,3 +26,6 @@
 - Create github account and create a repository  
   
 ### Week2
+- Static website (Github pages site)  
+- W3School
+- Bootstrap
