@@ -12,6 +12,8 @@
 
   
 ## Notes  
+[LALA](#week-5)
+
 
 ## HW  
 
