@@ -5,7 +5,7 @@
 >- **[HW](#hw)**
 >- **[Projects](#projects)**
 >- **[Weekly Outline](#week-1)**
-#### Bio  
+## Bio  
 >**Name:李承恩**  
 >**School:國立臺灣師範大學(NTNU)**  
 >**Class:科技系二年級**  
@@ -29,19 +29,28 @@
 
 
 
-### <span style="color:Red">Week 1</span>
+### **<span style="color:Red">Week 1</span>**
 - **Download and setup Node.js and React on VScode**  
 - **Create github account and create a repository**  
   
-### <span style="color:Red">Week 2</span>
+### **<span style="color:Red">Week 2</span>**
 - **Static website (Github pages site)**  
 - **W3School**
 - **Bootstrap**
 
-### <span style="color:Red">Week 3</span>
+### **<span style="color:Red">Week 3</span>**
 
 
-### <span style="color:Red">Week 4</span>
+### **<span style="color:Red">Week 4</span>**
+
+### **<span style="color:Red">Week 5</span>**  
+
+### **<span style="color:Red">Week 6</span>**  
+
+### **<span style="color:Red">Week 7</span>**  
+
+### **<span style="color:Red">Week 8</span>**  
+
+### **<span style="color:Red">Week 9</span>**  
 
 
-### <span style="color:Red">Week 5</span>
