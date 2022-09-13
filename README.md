@@ -14,10 +14,11 @@
 
   
 ## Notes  
-[LALA](#week-5)
+  - Useful Sites
+    - [Markdown Syntax](https://markdown.tw/)
+    - [W3School](https://www.w3schools.com/)
 
-
-## HW  
+## HW    
 
 
 ## Projects  
