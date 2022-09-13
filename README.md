@@ -15,10 +15,11 @@
   
 ## Notes  
   - Useful Sites
-    - [Markdown Syntax](https://markdown.tw/)
-    - [W3School](https://www.w3schools.com/)
+    - <a href="https://markdown.tw/" target="_blank">Markdown Syntax</a>
+    - <a href="" target="_blank">W3School</a>
 
 ## HW    
+
 
 
 ## Projects  
