@@ -1,5 +1,5 @@
 # [111-1 NTNU 網際網路概論 (Introduction to the Internet)](https://reurl.cc/AO992E)
-**Teacher：蔡芸琤老師**
+**Teacher：[蔡芸琤教授](https://github.com/pecu)**
 ## Outline
 >- **[Bio](#bio)**  
 >- **[Notes](#notes)**
@@ -29,15 +29,20 @@
 
 ## Weekly Summary
 ### **<span style="color:Red">Week 1</span>**
-
-- **Download and setup Node.js and React on VScode**  
+- **Evolution of the Internet**  
+  - Web 1.0 - Web 3.0
+  - Metaverse & Blockchain
+- **Download and setting up Node.js and React on VScode**  
 - **Create github account and create a repository**  
-  
+- **[source](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)**
+
+
 ### **<span style="color:Red">Week 2</span>**
 - **Static website (Github pages site)**  
 - **W3School**
 - **HTML and CSS intro**
 - **Bootstrap**
+
 
 ### **<span style="color:Red">Week 3</span>**
 
