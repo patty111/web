@@ -13,5 +13,7 @@
 ## Notes  
 
 ## HW  
+[Week 1]
+
 
 ## Projects  
