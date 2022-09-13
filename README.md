@@ -1,7 +1,8 @@
 # Web
 #### Bio  
->**Name：李承恩**  
->**Class：科技系二年級**  
+>**Name:李承恩**  
+>**School:國立臺灣師範大學(NTNU)**  
+>**Class:科技系二年級**  
 
 # 111-1 NTNU 網際網路概論 (Introduction to the Internet)  
 #### Class Info
