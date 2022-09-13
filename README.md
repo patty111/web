@@ -34,7 +34,7 @@
   - Metaverse & Blockchain
 - **Download and setting up Node.js and React on VScode**  
 - **Create github account and create a repository**  
-- **[source](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)**
+
 
 
 ### **<span style="color:Red">Week 2</span>**
