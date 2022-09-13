@@ -5,7 +5,7 @@
 >- **[Notes](#notes)**
 >- **[HW](#hw)**
 >- **[Projects](#projects)**
->- **[Weekly Outline](#week-1)**
+>- **[Weekly Summary](#weekly-summary)**
 ---  
 ## Bio  
 >**Name:李承恩**  
@@ -26,7 +26,7 @@
 
 
 
-
+## Weekly Summary
 ### **<span style="color:Red">Week 1</span>**
 - **Download and setup Node.js and React on VScode**  
 - **Create github account and create a repository**  
