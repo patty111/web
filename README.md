@@ -18,7 +18,8 @@
     - <a href="https://markdown.tw/" target="_blank" rel="noopener">Markdown Syntax</a>
     - <a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3School</a>
 
-## HW    
+## HW & Exercises    
+1. [Static Website (week 2)](https://patty111.github.io/web/Web1/)
 
 
 
@@ -28,12 +29,14 @@
 
 ## Weekly Summary
 ### **<span style="color:Red">Week 1</span>**
+
 - **Download and setup Node.js and React on VScode**  
 - **Create github account and create a repository**  
   
 ### **<span style="color:Red">Week 2</span>**
 - **Static website (Github pages site)**  
 - **W3School**
+- **HTML and CSS intro**
 - **Bootstrap**
 
 ### **<span style="color:Red">Week 3</span>**
