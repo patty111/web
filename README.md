@@ -15,8 +15,8 @@
   
 ## Notes  
   - Useful Sites
-    - <a href="https://markdown.tw/" target="_blank">Markdown Syntax</a>
-    - <a href="https://www.w3schools.com/" target="_blank">W3School</a>
+    - <a href="https://markdown.tw/" target="_blank" rel="noopener">Markdown Syntax</a>
+    - <a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3School</a>
 
 ## HW    
 
