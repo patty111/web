@@ -33,7 +33,7 @@
   - Web 1.0 - Web 3.0
   - Metaverse & Blockchain
 - **Download and setting up Node.js and React on VScode**  
-- **Create github account and create a repository**  
+- **Create github account and a repository**  
 
 
 
