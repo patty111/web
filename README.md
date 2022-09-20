@@ -17,6 +17,7 @@
   - Useful Sites
     - <a href="https://markdown.tw/" target="_blank" rel="noopener">Markdown Syntax</a>
     - <a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3School</a>
+    - <a href="https://codepen.io/" target="_blank" rel="noopener">CodePen</a>
 
 ## HW & Exercises    
 1. [Static Website (week 2)](https://patty111.github.io/web/Web1/)
@@ -45,7 +46,11 @@
 
 
 ### **<span style="color:Red">Week 3</span>**
-
+- **Communication Protocol**
+  - OSI Model
+  ![Error](layers.png "OSI 7 Layer Model")
+- **DNS**
+  - IPv4
 
 ### **<span style="color:Red">Week 4</span>**
 
