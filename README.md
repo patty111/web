@@ -57,7 +57,7 @@
 - **DNS**
   - IPv4
   - [How does DNS work](https://reurl.cc/oQ3LWg)
-- **CodePen**
+
 
 ### **<span style="color:Red">Week 4</span>**
 
