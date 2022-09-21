@@ -18,7 +18,10 @@
     - <a href="https://markdown.tw/" target="_blank" rel="noopener">Markdown Syntax</a>
     - <a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3School</a>
     - <a href="https://codepen.io/" target="_blank" rel="noopener">CodePen</a>
-
+    - <a href="https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/" target="_blank" rel="noopener">Windows Network Commands</a>
+    - <a href="https://learnjavascript.online/" target="_blank" rel="noopener">Learn JS</a>
+    - <a href="https://learnhtmlcss.online/" target="_blank" rel="noopener">Learn HTML & CSS</a>
+    
 ## HW & Exercises    
 1. [Static Website (week 2)](https://patty111.github.io/web/Web1/)
 
@@ -33,7 +36,7 @@
 - **Evolution of the Internet**  
   - Web 1.0 - Web 3.0
   - Metaverse & Blockchain
-- **Download and setting up Node.js and React on VScode**  
+- **[Download and setting up Node.js and React on VScode](https://reurl.cc/m3Q96G)**  
 - **Create github account and a repository**  
 
 
@@ -42,15 +45,20 @@
 - **Static website (Github pages site)**  
 - **W3School**
 - **HTML and CSS intro**
-- **Bootstrap**
+- **[Bootstrap](https://www.youtube.com/watch?v=kl5tJALNSBM&t=443shttps://www.youtube.com/watch?v=ROGGhNpjid4)**
 
 
 ### **<span style="color:Red">Week 3</span>**
 - **Communication Protocol**
-  - OSI Model
+  - OSI Model  
   ![Error](layers.png "OSI 7 Layer Model")
+
+- **How data travels through the Internet**
+  - Windows terminal network commands
 - **DNS**
   - IPv4
+  - [How does DNS work](https://reurl.cc/oQ3LWg)
+- **CodePen**
 
 ### **<span style="color:Red">Week 4</span>**
 
