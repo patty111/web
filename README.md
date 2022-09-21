@@ -18,7 +18,6 @@
     - <a href="https://markdown.tw/" target="_blank" rel="noopener">Markdown Syntax</a>
     - <a href="https://www.w3schools.com/" target="_blank" rel="noopener">W3School</a>
     - <a href="https://codepen.io/" target="_blank" rel="noopener">CodePen</a>
-    - <a href="https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/" target="_blank" rel="noopener">Windows Network Commands</a>
     - <a href="https://learnjavascript.online/" target="_blank" rel="noopener">Learn JS</a>
     - <a href="https://learnhtmlcss.online/" target="_blank" rel="noopener">Learn HTML & CSS</a>
     
@@ -54,7 +53,7 @@
   ![Error](layers.png "OSI 7 Layer Model")
 
 - **How data travels through the Internet**
-  - Windows terminal network commands
+  - [Windows terminal network commands](https://www.techrepublic.com/article/ten-windows-10-network-commands-everyone-one-should-know/)
 - **DNS**
   - IPv4
   - [How does DNS work](https://reurl.cc/oQ3LWg)
