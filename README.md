@@ -3,7 +3,7 @@
 ## Outline
 >- **[Bio](#bio)**  
 >- **[Notes](#notes)**
->- **[HW](#hw)**
+>- **[HW & Exercises](#hw--exercises)**
 >- **[Projects](#projects)**
 >- **[Weekly Summary](#weekly-summary)**
 ---  
