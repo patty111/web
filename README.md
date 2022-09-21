@@ -22,7 +22,8 @@
     - <a href="https://learnhtmlcss.online/" target="_blank" rel="noopener">Learn HTML & CSS</a>
     
 ## HW & Exercises    
-1. [Static Website (week 2)](https://patty111.github.io/web/Web1/)
+1. [Static Website (Week 2)](https://patty111.github.io/web/Web1/)
+2. [Create Github Repo & Github Pages Tutorial (Week 3 HW)](https://youtu.be/H4gbLRV1yQU)
 
 
 
