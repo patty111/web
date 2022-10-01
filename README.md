@@ -61,6 +61,12 @@
 
 
 ### **<span style="color:Red">Week 4</span>**
+- **Hackathon Competition introduction and promotion**
+- **HTTP**
+  - Status Code
+  - HTTP Request
+- **Web developer tool**
+- **[Node.js web server implementation](https://bird23074035.medium.com/node-js-起手式-自架一個-web-server-9672f29a6102)**
 
 ### **<span style="color:Red">Week 5</span>**  
 
