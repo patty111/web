@@ -24,7 +24,7 @@
 ## HW & Exercises    
 1. [Static Website (Week 2)](https://patty111.github.io/web/Web1/)
 2. [Create Github Repo & Github Pages Tutorial (Week 3 HW)](https://youtu.be/hsSgLKbkKLY)
-
+3. [CRUD Tutorial: MySQL, NodeJS and ReactJS (Week 5 HW)](https://youtu.be/rHR-JAiif2s)
 
 
 ## Projects  
@@ -69,9 +69,14 @@
 - **[Node.js web server implementation](https://bird23074035.medium.com/node-js-起手式-自架一個-web-server-9672f29a6102)**
 
 ### **<span style="color:Red">Week 5</span>**  
-
+- **Homework review**
+- **MySQL download and setup**
+- **Database**
+  - Connect database using node
+  - CRUD : Create, Read, Update, Delete
+- **React architecture**
 ### **<span style="color:Red">Week 6</span>**  
-
+- **Homework review**
 ### **<span style="color:Red">Week 7</span>**  
 
 ### **<span style="color:Red">Week 8</span>**  
