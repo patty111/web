@@ -24,7 +24,7 @@
 ## HW & Exercises    
 1. [Static Website (Week 2)](https://patty111.github.io/web/Web1/)
 2. [Create Github Repo & Github Pages Tutorial (Week 3 HW)](https://youtu.be/hsSgLKbkKLY)
-3. [CRUD Tutorial: MySQL, NodeJS and ReactJS (Week 6 HW)](https://youtu.be/rHR-JAiif2s)
+3. [CRUD Tutorial: MySQL, NodeJS and ReactJS (Week 5 HW)](https://youtu.be/rHR-JAiif2s)
 
 
 ## Projects  
