@@ -25,7 +25,8 @@
 1. [Static Website (Week 2)](https://patty111.github.io/web/Web1/)
 2. [Create Github Repo & Github Pages Tutorial (Week 3 HW)](https://youtu.be/hsSgLKbkKLY)
 3. [CRUD Tutorial: MySQL, NodeJS and ReactJS (Week 5 HW)](https://youtu.be/rHR-JAiif2s)
-3. [AWS Introduction to Cloud 101 Lab1 & 2 (Week 7 HW)](https://youtu.be/_Gkuvb_tE9I)
+3. [AWS Introduction to Cloud 101 Lab 1 & 2 (Week 7 HW)](https://youtu.be/_Gkuvb_tE9I)
+4. [AWS Introduction to Cloud 101 Lab 5 & 6 (Week 9 HW)](https://youtu.be/7yPOssXyWT8)
 
 ## Projects  
 
