@@ -27,7 +27,7 @@
 3. [CRUD Tutorial: MySQL, NodeJS and ReactJS (Week 5 HW)](https://youtu.be/rHR-JAiif2s)
 3. [AWS Introduction to Cloud 101 Lab 1 & 2 (Week 7 HW)](https://youtu.be/_Gkuvb_tE9I)
 4. [AWS Introduction to Cloud 101 Lab 5 & 6 (Week 9 HW)](https://youtu.be/7yPOssXyWT8)
-
+5. [AWS Introduction to Cloud 101 Lab 3, 4 & 7 (Week 11 HW)](https://youtu.be/wEXr51YCpqQ)
 ## Projects  
 
 
