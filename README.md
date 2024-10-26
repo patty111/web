@@ -7,12 +7,6 @@
 >- **[Projects](#projects)**
 >- **[Weekly Summary](#weekly-summary)**
 ---  
-## Bio  
->**Name:李承恩**  
->**School:國立臺灣師範大學(NTNU)**  
->**Class:科技系二年級**  
-
-  
 ## Notes  
   - Useful Sites
     - <a href="https://markdown.tw/" target="_blank" rel="noopener">Markdown Syntax</a>
